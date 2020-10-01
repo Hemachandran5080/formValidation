@@ -1,0 +1,35 @@
+body {
+    background-color: #32e0c4;
+}
+
+form {
+    margin: 0 auto;
+    width: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.form-style {
+    background-color: #a6f6f1;
+}
+
+h1 {
+    font-family: 'Sansita Swashed', cursive;
+    position: relative;
+    left : 40%;
+    color: #b83b5e;
+}
+
+.h1-style {
+    position: relative;
+    top: 50px;
+}
+
+p {
+    color: #6a2c70;
+}
+
+.carousel-position {
+    position: relative;
+    top: 100px;
+}
